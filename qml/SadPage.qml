@@ -24,7 +24,7 @@ Rectangle {
 
             wrapMode: Text.Wrap
             horizontalAlignment: Text.AlignHCenter
-            text: webview ? i18n.tr("Oops, something went wrong.") : ""
+            text: webview ? i18n.tr("Oops, something went wrong!") : ""
         }
 
         Button {
