@@ -1,0 +1,15 @@
+{
+    "name": "yumhub.grubhub",
+    "description": "Yumhub is an unofficial Grubhub app letting users order food directly from the app on their Ubuntu Touch phone.",
+    "architecture": "armhf",
+    "title": "Yumhub",
+    "hooks": {
+        "tweet": {
+            "apparmor": "yumhub.apparmor",
+            "desktop":  "yumhub.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Martin Ferretti <ferrettimartin@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
