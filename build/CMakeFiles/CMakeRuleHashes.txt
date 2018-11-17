@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+fd89dc9fa06d3ca9f2c96e4aa67e2982 CMakeFiles/yumhub.desktop
+10166cedb237cb13acaa3beee8ba75c6 po/CMakeFiles/pofiles_1
+e51ec233de45dbb9ea0237297e5d704e po/CMakeFiles/yumhub.grubhub.pot
+bb8a2f6252d48b997373b0a90e17aff2 po/es.gmo
