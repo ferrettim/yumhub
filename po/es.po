@@ -8,14 +8,81 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YumHub\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-14 12:05+0000\n"
-"PO-Revision-Date: 2018-11-16 23:03+0000\n"
+"POT-Creation-Date: 2018-11-17 05:13+0000\n"
+"PO-Revision-Date: 2018-11-17 11:08+0100\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/AboutPage.qml:8
+msgid "About Yumhub 1.1"
+msgstr "Acerca de Yumhub 1.1"
+
+#: ../qml/AboutPage.qml:9
+msgid ""
+"Yumhub is an unofficial Grubhub app letting users order food directly from "
+"the app on their Ubuntu Touch phone."
+msgstr ""
+"Yumhub es una aplicación no oficial de Grubhub que permite a los usuarios "
+"pedir comida desde su dispositivo con Ubuntu Touch."
+
+#: ../qml/AboutPage.qml:13
+msgid ""
+"Copyright (c) 2018 <br> by Martin Ferretti  <br><br> E-Mail: <a href="
+"\"mailto://ferrettimartin@gmail.com\">ferrettimartin@gmail.com</a>"
+msgstr ""
+"Copyright (c) 2018 <br> de Martin Ferretti  <br><br> E-Mail: <a href="
+"\"mailto://ferrettimartin@gmail.com\">ferrettimartin@gmail.com</a>"
+
+#: ../qml/AboutPage.qml:18
+msgid "Yumhub is not affiliated with Grubhub."
+msgstr "Yumhub no está afiliada a Grubhub."
+
+#: ../qml/AboutPage.qml:22
+msgid "OK"
+msgstr "Aceptar"
+
+#: ../qml/actions/Copy.qml:22
+msgid "Copy"
+msgstr "Copiar"
+
+#: ../qml/actions/CopyImage.qml:22
+msgid "Copy image"
+msgstr "Copiar imagen"
+
+#: ../qml/actions/CopyLink.qml:22
+msgid "Copy link"
+msgstr "Copiar enlace"
+
+#: ../qml/actions/SaveImage.qml:22
+msgid "Save image"
+msgstr "Guardar imagen"
+
+#: ../qml/actions/ShareLink.qml:22
+msgid "Share…"
+msgstr "Compartir…"
+
+#: ../qml/ContentDownloadDialog.qml:63
+msgid ""
+"Choose an application to open this file or add it to the downloads folder."
+msgstr ""
+"Elegir una aplicación para abrir este archivo o añadirlo a la carpeta de "
+"descargas."
+
+#: ../qml/ContentDownloadDialog.qml:69
+msgid "Choose an application"
+msgstr "Elegir una aplicación"
+
+#: ../qml/ContentDownloadDialog.qml:82
+msgid "Download"
+msgstr "Descargar"
+
+#: ../qml/ContentDownloadDialog.qml:94
+msgid "Cancel"
+msgstr "Cancelar"
 
 #: ../qml/MediaAccessDialog.qml:31
 msgid "Permission"
@@ -46,26 +113,6 @@ msgstr "Sí"
 msgid "No"
 msgstr "No"
 
-#: ../qml/actions/SaveImage.qml:22
-msgid "Save image"
-msgstr "Guardar imagen"
-
-#: ../qml/actions/Copy.qml:22
-msgid "Copy"
-msgstr "Copiar"
-
-#: ../qml/actions/ShareLink.qml:22
-msgid "Share…"
-msgstr "Compartir…"
-
-#: ../qml/actions/CopyImage.qml:22
-msgid "Copy image"
-msgstr "Copiar imagen"
-
-#: ../qml/actions/CopyLink.qml:22
-msgid "Copy link"
-msgstr "Copiar enlace"
-
 #: ../qml/SadPage.qml:27
 msgid "Oops, something went wrong."
 msgstr "Uy, algo salió mal."
@@ -73,46 +120,3 @@ msgstr "Uy, algo salió mal."
 #: ../qml/SadPage.qml:33
 msgid "Reload"
 msgstr "Volver a cargar"
-
-#: ../qml/ContentDownloadDialog.qml:63
-msgid ""
-"Choose an application to open this file or add it to the downloads folder."
-msgstr ""
-"Elegir una aplicación para abrir este archivo o añadirlo a la carpeta de "
-"descargas."
-
-#: ../qml/ContentDownloadDialog.qml:69
-msgid "Choose an application"
-msgstr "Elegir una aplicación"
-
-#: ../qml/ContentDownloadDialog.qml:82
-msgid "Download"
-msgstr "Descargar"
-
-#: ../qml/ContentDownloadDialog.qml:94
-msgid "Cancel"
-msgstr "Cancelar"
-
-#: ../qml/AboutPage.qml:8
-msgid "About Yumhub v1.0"
-msgstr "Acerca de Yumhub v1.0"
-
-#: ../qml/AboutPage.qml:9
-msgid "Yumhub is an unofficial Grubhub app letting users order food directly from the app on their Ubuntu Touch phone."
-msgstr ""
-
-#: ../qml/AboutPage.qml:13
-msgid ""
-"Copyright (c) 2018 <br> by Martin Ferretti  <br><br> E-Mail: <a href="
-"\"mailto://ferrettimartin@gmail.com\">ferrettimartin@gmail.com</a>"
-msgstr ""
-"Copyright (c) 2018 <br> de Martin Ferretti  <br><br> E-Mail: <a href="
-"\"mailto://ferrettimartin@gmail.com\">ferrettimartin@gmail.com</a>"
-
-#: ../qml/AboutPage.qml:18
-msgid "This app is not affiliated with Grubhub"
-msgstr "Esta aplicación no está afiliada a Grubhub"
-
-#: ../qml/AboutPage.qml:22
-msgid "OK"
-msgstr "Aceptar"

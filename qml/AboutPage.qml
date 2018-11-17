@@ -5,7 +5,7 @@ import Ubuntu.Components.Popups 1.3
 Dialog {
             id: aboutDialog
             visible: false
-            title: i18n.tr("About Yumhub 1.0")
+            title: i18n.tr("About Yumhub 1.1")
             text: i18n.tr("Yumhub is an unofficial Grubhub app letting users order food directly from the app on their Ubuntu Touch phone.")
 
             Text {
