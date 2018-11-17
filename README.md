@@ -1,4 +1,4 @@
-# Flickdango
+# Yumhub
 <img src="screenshots/screenshot1.png" width="256px" alt="Yumhub App">
 <br>
 <br>
